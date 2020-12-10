@@ -1,6 +1,6 @@
 # Método da Bisseção
 
-* ## ![equation](http://www.sciweavers.org/tex2img.php?eq=f_3%28x%29+%3D+x%5E3-3x%5E2%282%5E-%5Ex%29%2B3x%284%5E-%5Ex%29-8%5E-%5Ex&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=)
+* ## ![equation](http://www.sciweavers.org/tex2img.php?eq=f_3%28x%29%3Dx%5E3-3x%5E2%282%5E-%5Ex%29%2B3x%284%5E-%5Ex%29-8%5E-%5Ex&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=)
 
 |  Iteração  |    a    |    x    |    b    |  f(x)   |  erro absoluto (b - a)  |
 |:----------:|:-------:|:-------:|:-------:|:-------:|:-----------------------:|
