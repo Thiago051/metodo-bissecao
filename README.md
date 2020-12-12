@@ -1,6 +1,9 @@
 # Método da Bisseção
 
-- ## F3(x)
+- <p>
+    <img src="http://www.sciweavers.org/tex2img.php?eq=f_3%28x%29+%3D+x%5E3-3x%5E2%282%5E-%5Ex%29%2B3x%284%5E-%5Ex%29-8%5E-%5Ex&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit="/>
+</p>
+
 
 |  Iteração  |    a    |    x    |    b    |  f(x)   |  erro absoluto (b - a)  |
 |:----------:|:-------:|:-------:|:-------:|:-------:|:-----------------------:|
@@ -21,7 +24,9 @@
 
 #### Raiz aproximada = 0.64117
 
-- ## F4(x)
+- <p>
+    <img src="http://www.sciweavers.org/tex2img.php?eq=f_4%28x%29%3Dsin%28x%29sin%28x%5E2%2F%5Cpi%29&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit="/>
+</p>
 
 |  Iteração  |    a    |    x    |    b    |   f(x)   |  erro absoluto (b - a)  |
 |:----------:|:-------:|:-------:|:-------:|:--------:|:-----------------------:|
@@ -42,7 +47,10 @@
 
 #### Raiz aproximada = 4.44293
 
-- ## F5(x)
+
+- <p>
+    <img src="http://www.sciweavers.org/tex2img.php?eq=f_5%28x%29%3D%28x-1.44%29%5E5&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit="/>
+</p>
 
 |  Iteração  |    a    |    x    |    b    |   f(x)   |  erro absoluto (b - a)  |
 |:----------:|:-------:|:-------:|:-------:|:--------:|:-----------------------:|
